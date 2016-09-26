@@ -1,1 +1,1 @@
-This repository is meant to store all of the contents of the "Genious Hour/20Time" Assignment
+This repository is meant to store all of the contents of the "Genius Hour/20Time" Assignment
