@@ -1,6 +1,4 @@
 # Genius Hour for Fall 2016
-Location to log my genius hour work and learning.  This readme will be updated as a log file for the project, and any data files (if necessary) will be found within the repo. 
-
 ##Topic
 * For Genius Hour, I will be teaching myself how to create electronic music, A.K.A. EDM. I will accomplish this by using a program called "Fruity Loops". Fruity loops is a music creation software that many EDM Producers use in order to make and remix songs. I will dedicate at least an hour each week to learn the program, and eventually will create a song (or two) from what I have learned.
 
