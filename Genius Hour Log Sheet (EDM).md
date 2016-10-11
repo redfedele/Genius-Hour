@@ -9,7 +9,7 @@
 * This week I watched the rest of the video and tried to grasp more of the basic concepts. The rest of the video explained how to properly combine sounds, how to change beats and rhythms depending on what you want to do, and how to install useful plugins and sound libraries. After this I realized that I would probably need to learn notes and use a piano keyboard properly, this is in order to use the correct notes and make it easier on myself in the future. Although I have gone over the tutorials and learned the notes on a keyboard, I do not think I will be able to start just yet.
 
 ###Week 3 (Oct 2 - 8)
-* To follow
+* This week I attempted to make my own kicks rather than use a sample pack from a third party source. A "Kick" is a drum sound that has a large amount of concentrated bass, this can be commonly found on the bottom of a drum set. The type of kick that I attempted to create is common within in the genre of "Hardstyle". This means that the kick has a large amount of sound distortion to the end creating a kind or raw sound. Here is an [example](https://www.youtube.com/watch?v=kKrahMCaHCo)  (Keep in mind that the kick's I am creating are less gritty and lighter then the example given). Furtheremore, even though I am focusing on creating "Hardstyle" tracks, I do plan on dwelving into other genres such as House music and possibly Trap.
 
 ####Week 4 (Oct 9 - 15)
 * To follow
