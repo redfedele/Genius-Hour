@@ -12,10 +12,7 @@
 * This week I attempted to make my own kicks rather than use a sample pack from a third party source. A "Kick" is a drum sound that has a large amount of concentrated bass, this can be commonly found on the bottom of a drum set. The type of kick that I attempted to create is common within in the genre of "Hardstyle". This means that the kick has a large amount of sound distortion to the end creating a kind or raw sound. Here is an [example](https://www.youtube.com/watch?v=kKrahMCaHCo)  (Keep in mind that the kick's I am creating are less gritty and lighter then the example given). Furthermore, even though I am focusing on creating "Hardstyle" tracks, I do plan on dwelving into other genres such as House music and possibly Trap.
 
 ####Week 4 (Oct 9 - 15)
-* To follow
-
-####Week 5 (Oct 16 - 22)
-* To follow
+* This week I started making melodies using the keyboard plugin in Fruity Loops. It wasnt as hard as I originally thought it would be, but I still needed to watch a [video](https://www.youtube.com/watch?v=pMDOwZkH3y0&ab_channel=Mogey) to make sure I was doing it correctly. Other than that, I didn't do that much this week.
 
 ####Week 6 (Oct 23 - 29)
 * To follow
