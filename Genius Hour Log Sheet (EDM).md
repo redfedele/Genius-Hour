@@ -15,13 +15,10 @@
 * This week I started making melodies using the keyboard plugin in Fruity Loops. It wasnt as hard as I originally thought it would be, but I still needed to watch a [video](https://www.youtube.com/watch?v=pMDOwZkH3y0&ab_channel=Mogey) to make sure I was doing it correctly. Other than that, I didn't do that much this week.
 
 ####Week 6 (Oct 23 - 29)
-* To follow
-
-####Week 7 (Oct 30 - Nov 5)
-* To follow
+* Tried sampling form other songs. Didnt really work out to well so I had to look at [videos](https://www.youtube.com/watch?v=04fONZyqVvA&ab_channel=MrMagnificentMedia) on how to do it. Although I did use the video as reference, the clip didn't really mix well with the song I am creating.
 
 ####Week 8 (Nov 6 - Nov 12)
-* To follow
+* Figured out how to sample clips properly and successfully added it into the song. Also tampered with wobble bass (although I wont really be using it).
 
 ####Week 9 (Nov 13 - Nov 19)
 * To follow
